@@ -1,0 +1,20 @@
+MILD
+1. Make the game screen larger
+
+2. Change the position, size, and colors of the moon and planet.
+
+3. Change the number and colors of the stars, make sure they cover the entire screen 
+
+4. Change the background color
+
+5. Add another planet or moon of a different shape, size, and color. 
+
+------------------------------------------------------------------------------
+
+MEDIUM/Spicy
+1. Move and enlarge the rocket 
+2. Create a second star (can you make it a different size?)
+3. Using arrays and loops, create multiple flying saucers
+4. add a crescent moon
+5. Make the stars twinkle
+
